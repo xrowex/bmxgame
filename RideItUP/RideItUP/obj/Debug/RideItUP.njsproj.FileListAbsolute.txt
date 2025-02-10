@@ -1,0 +1,3 @@
+C:\Users\xrowe\source\repos\RideItUP\RideItUP\obj\Debug\RideItUP.njsproj.AssemblyReference.cache
+C:\Users\xrowe\source\repos\RideItUP\RideItUP\obj\Debug\RideItUP.njsproj.CoreCompileInputs.cache
+C:\Users\xrowe\source\repos\RideItUP\RideItUP\bin\Microsoft.NodejsTools.WebRole.dll
